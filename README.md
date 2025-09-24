@@ -39,10 +39,10 @@ Built with **@react-pdf/renderer**, it allows users to fill out a form, preview 
 PDF-Generator/
 │── src/
 │   ├── components/
-│   │   ├── EmployeeForm.jsx   # Employee input form
-│   │   ├── EmployeePDF.jsx    # PDF layout template
-│   ├── App.jsx                # Main container with logic
-│   ├── main.jsx              # React entry point
+│   │   ├── EmployeeForm.jsx   
+│   │   ├── EmployeePDF.jsx    
+│   ├── App.jsx                
+│   ├── main.jsx             
 │── package.json
 │── README.md
 ```
